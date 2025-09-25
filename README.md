@@ -1,6 +1,6 @@
 # Ivan Ha 
 
-![camping](path/to/your/image.png)
+![camping](Camping-Featured-Image.png)
 ## Favorite Hobbies
 * Playing video games
 * Hanging out with Friends
