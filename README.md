@@ -1,6 +1,6 @@
-# Ivan Ha example page
+# Ivan Ha 
 
-
+![camping](path/to/your/image.png)
 ## Favorite Hobbies
 * Playing video games
 * Hanging out with Friends
