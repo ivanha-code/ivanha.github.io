@@ -1,1 +1,1 @@
-This is Ivan's CS155 gitub Page
+This is Ivan's CS155 gitub page example
