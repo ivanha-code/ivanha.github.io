@@ -1,1 +1,0 @@
-# Ivan Ha example page
