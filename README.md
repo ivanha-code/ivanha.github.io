@@ -1,3 +1,8 @@
-This is Ivan's CS155 gitub page example
+# Ivan Ha example page
 
-https://ivanha-code.github.io/ivanha.github.io/
+
+## Favorite Hobbies
+* Playing video games
+* Hanging out with Friends
+* Camping
+* Eating new foods or eating food in general
